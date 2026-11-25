@@ -183,8 +183,24 @@ streamlit run app.py
 - Investigate execution on actual quantum hardware.
 - Improve the interactive Streamlit application.
 
-## Reference
+## References
 
-Cortez, P., & Silva, A. (2008). Using data mining to predict secondary school student performance. *Proceedings of the 5th Future Business Technology Conference (FUBUTEC 2008)*.
+### Dataset
 
-Dataset: [UCI Machine Learning Repository – Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+1. Cortez, P., & Silva, A. (2008). Using data mining to predict secondary school student performance. In *Proceedings of the 5th Future Business Technology Conference (FUBUTEC 2008)*, pp. 5–12. Porto, Portugal: EUROSIS.
+
+2. Cortez, P. (2008). *Student Performance* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T
+
+### Quantum Machine Learning
+
+3. Havlíček, V., Córcoles, A. D., Temme, K., Harrow, A. W., Kandala, A., Chow, J. M., & Gambetta, J. M. (2019). Supervised learning with quantum-enhanced feature spaces. *Nature, 567*, 209–212. https://doi.org/10.1038/s41586-019-0980-2
+
+4. Schuld, M., & Killoran, N. (2019). Quantum machine learning in feature Hilbert spaces. *Physical Review Letters, 122*(4), 040504. https://doi.org/10.1103/PhysRevLett.122.040504
+
+### Framework and Implementation
+
+5. Qiskit Machine Learning Documentation. *Quantum Kernel Machine Learning*. https://qiskit-community.github.io/qiskit-machine-learning/tutorials/03_quantum_kernel.html
+
+6. Qiskit Machine Learning Documentation. *FidelityQuantumKernel API Reference*. https://qiskit-community.github.io/qiskit-machine-learning/stubs/qiskit_machine_learning.kernels.FidelityQuantumKernel.html
+
+7. Scikit-learn Documentation. *Support Vector Classification (SVC)*. https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
